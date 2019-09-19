@@ -1,7 +1,7 @@
 ---
 title: Grand Child
 parent: Child
-grant_parent: Item
+grand_parent: Item
 nav_order: 1
 ---
 
